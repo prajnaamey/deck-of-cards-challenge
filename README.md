@@ -23,7 +23,7 @@ This project contains a Python script, `commure_coding_challenge.py`, that perfo
 
 2.  **Run the script:**
     ```bash
-    python commure_coding_challenge.py
+    python deck_of_cards_api.py
     ```
 
 ### Sample Output
